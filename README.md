@@ -95,3 +95,51 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+
+
+// /**
+//  * Sample React Native App
+//  * https://github.com/facebook/react-native
+//  *
+//  * @format
+//  */
+
+// import { NewAppScreen } from '@react-native/new-app-screen';
+// import { StatusBar, StyleSheet, useColorScheme, View } from 'react-native';
+// // import NavBar from './src/components/NavBar';
+// import Board from './src/components/Board';
+
+// function App() {
+//   const isDarkMode = useColorScheme() === 'dark';
+
+//   return (
+//     <View style={styles.container}>
+//       <View style={styles.box1}>
+//         <Board/>
+//       </View>
+//       {/* <View style={styles.navBar}>
+//         <NavBar/>
+//       </View> */}
+//     </View>
+//   );
+// }
+
+// const styles = StyleSheet.create({
+//   container: {
+//     flex: 1,
+//     display: 'flex',
+//     backgroundColor: '#d3e3fd',
+//   },
+//   box1: {
+//     flex: 1,
+//     backgroundColor: '#f0f8ff',
+//   },
+//   navBar: {
+//     height: 50,
+//     width: '100%',
+//     backgroundColor: '#000000',
+//   },
+// });
+
+// export default App;
