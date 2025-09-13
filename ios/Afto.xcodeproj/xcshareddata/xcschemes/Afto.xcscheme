@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "hycoder.app"
-               BlueprintName = "hycoder"
-               ReferencedContainer = "container:hycoder.xcodeproj">
+               BuildableName = "Afto.app"
+               BlueprintName = "Afto"
+               ReferencedContainer = "container:Afto.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "hycoderTests.xctest"
-               BlueprintName = "hycoderTests"
-               ReferencedContainer = "container:hycoder.xcodeproj">
+               BuildableName = "AftoTests.xctest"
+               BlueprintName = "AftoTests"
+               ReferencedContainer = "container:Afto.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "hycoder.app"
-            BlueprintName = "hycoder"
-            ReferencedContainer = "container:hycoder.xcodeproj">
+            BuildableName = "Afto.app"
+            BlueprintName = "Afto"
+            ReferencedContainer = "container:Afto.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "hycoder.app"
-            BlueprintName = "hycoder"
-            ReferencedContainer = "container:hycoder.xcodeproj">
+            BuildableName = "Afto.app"
+            BlueprintName = "Afto"
+            ReferencedContainer = "container:Afto.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
